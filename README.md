@@ -18,17 +18,6 @@ The goal of this project is to build a deep learning workflow that predicts Tan 
 
 ---
 
-## Repository Structure
-
-tan_oak_keras/
-├── main.py
-├── data.py
-├── models.py
-├── train.py
-├── config.json
-├── environment.yml          # optional, created after environment export
-└── README.md
-
 ### File descriptions
 
 #### `main.py`
@@ -210,3 +199,4 @@ This will:
 * Future extensions could include class weighting, stronger CNN backbones, map-based prediction outputs, and more detailed experiment tracking.
 
 ---
+
