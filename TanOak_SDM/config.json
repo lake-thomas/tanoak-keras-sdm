@@ -1,8 +1,8 @@
 {
   "experiment": "tan_oak_image_climate_demo",
-  "csv_path": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/Sample_data.csv",
-  "image_dir": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/Sample_NAIP_Chips",
-  "output_dir": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/model_outputs",
+  "csv_path": "C:/Users/talake2/Desktop/tanoak-keras-sdm/Sample_data.csv",
+  "image_dir": "C:/Users/talake2/Desktop/tanoak-keras-sdm/Sample_NAIP_Chips",
+  "output_dir": "C:/Users/talake2/Desktop/tanoak-keras-sdm/model_outputs",
   "model_type": "image_climate",
   "batch_size": 16,
   "epochs": 100,
