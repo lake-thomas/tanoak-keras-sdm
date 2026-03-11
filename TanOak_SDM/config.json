@@ -1,0 +1,21 @@
+{
+  "experiment": "tan_oak_image_climate_demo",
+  "csv_path": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/Sample_data.csv",
+  "image_dir": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/Sample_NAIP_Chips",
+  "output_dir": "C:/Users/talake2/Desktop/TanOak_NAIP_SDMs/model_outputs",
+  "model_type": "image_climate",
+  "batch_size": 16,
+  "epochs": 100,
+  "learning_rate": 0.0001,
+  "dropout": 0.25,
+  "image_size": 256,
+  "rotation_factor": 0.15,
+  "hflip": true,
+  "vflip": true,
+  "env_features": [
+    "WC_01", "WC_02", "WC_03", "WC_04", "WC_05",
+    "WC_06", "WC_07", "WC_08", "WC_09", "WC_10",
+    "WC_11", "WC_12", "WC_13", "WC_14", "WC_15",
+    "WC_16", "WC_17", "WC_18", "WC_19"
+  ]
+}
